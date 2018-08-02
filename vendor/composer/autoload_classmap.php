@@ -41,6 +41,7 @@ return array(
     'Carbon\\Translator' => $vendorDir . '/nesbot/carbon/src/Carbon/Translator.php',
     'CreateMobilesTable' => $baseDir . '/database/migrations/2018_08_02_181914_create_mobiles_table.php',
     'CreatePassportTable' => $baseDir . '/database/migrations/2018_07_25_082211_create_passport_table.php',
+    'CreateRoleUserTable' => $baseDir . '/database/migrations/2018_08_02_215815_create_role_user_table.php',
     'CreateRolesTable' => $baseDir . '/database/migrations/2018_08_02_183653_create_roles_table.php',
     'CreateSongsTable' => $baseDir . '/database/migrations/2018_07_24_072118_create_songs_table.php',
     'CreateUserTable' => $baseDir . '/database/migrations/2018_07_25_082039_create_user_table.php',

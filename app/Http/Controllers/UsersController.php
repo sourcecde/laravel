@@ -17,6 +17,8 @@ class UsersController extends Controller
     { 
     	$users = user::find(1);
         $mobiles = user::find(1)->mobile;
+        $roles = user::find(1)->roles;
+        return $roles;
         return view('users.index',compact('users','mobiles'));
     }
 

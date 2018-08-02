@@ -319,6 +319,7 @@ class ComposerStaticInitc69287e3f65618a92d259b7fca0267c8
         'Carbon\\Translator' => __DIR__ . '/..' . '/nesbot/carbon/src/Carbon/Translator.php',
         'CreateMobilesTable' => __DIR__ . '/../..' . '/database/migrations/2018_08_02_181914_create_mobiles_table.php',
         'CreatePassportTable' => __DIR__ . '/../..' . '/database/migrations/2018_07_25_082211_create_passport_table.php',
+        'CreateRoleUserTable' => __DIR__ . '/../..' . '/database/migrations/2018_08_02_215815_create_role_user_table.php',
         'CreateRolesTable' => __DIR__ . '/../..' . '/database/migrations/2018_08_02_183653_create_roles_table.php',
         'CreateSongsTable' => __DIR__ . '/../..' . '/database/migrations/2018_07_24_072118_create_songs_table.php',
         'CreateUserTable' => __DIR__ . '/../..' . '/database/migrations/2018_07_25_082039_create_user_table.php',
