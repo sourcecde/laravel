@@ -20,3 +20,4 @@ Route::get('about', function () {
 });
 
 Route::resource('songs','SongsController');
+Route::resource('users','UsersController');
